@@ -8,7 +8,7 @@ import StartGameScreen from './scenes/StartGameScene';
 export default function App() {
   return (
     <View style={styles.main}>
-        <Header title={"Guess a number..."}/>
+        <Header title={"I will guess your number!"}/>
         <StartGameScreen />
     </View>
   );
